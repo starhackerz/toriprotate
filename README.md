@@ -32,6 +32,6 @@
 ## Building from Source
 
 1. Clone this repository
-2. Use maven to build the project: `mvn packaage`.
+2. Use maven to build the project: `mvn package`.
 3. Add `toriprotate-1.0-SNAPSHOT-jar-with-dependencies.jar` like described at *Setup*. 
    Make sure you pick the right one, the other jar without *with dependencies* won't work.
